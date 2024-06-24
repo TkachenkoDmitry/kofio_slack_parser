@@ -1,0 +1,4 @@
+bin
+orders.csv
+.env
+.DS_Store
